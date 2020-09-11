@@ -14,9 +14,6 @@ Hey there! :wave: I'm Marquis, and I'm a college student and software developer.
     <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/uvn.svg" width="80px"/>
 </a>
 
-<link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
-<p class="btn btn-block">Test</p>
-
 <!-- Links -->
 [hyper]: https://hyperspace.marquiskurt.net
 [uvn]: https://unscripted.marquiskurt.net
