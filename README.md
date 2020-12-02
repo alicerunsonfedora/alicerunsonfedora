@@ -1,4 +1,5 @@
-<img src="rhema.gif" align=right />
+<a href="https://marquiskurt.net/files/converse.bsem.txt"><img src="rhema.gif" align=right /></a>
+
 ## Marquis Kurt
 
 **Swift, Python, and web developer**
@@ -18,7 +19,7 @@ Hey there! :wave: I'm Marquis, and I'm a college student and software developer.
     <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/uvn.svg" width="80px" alt="Play Unscripted"/>
 </a>
 <a href="https://ko-fi.com/marquiskurt">
-    <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/kofi.png" width="80px" alt="Buy me a coffee"/>
+    <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/kofi.png" height="25px" alt="Buy me a coffee"/>
 </a>
 
 <!-- Links -->
