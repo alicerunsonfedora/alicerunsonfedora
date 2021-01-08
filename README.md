@@ -12,7 +12,7 @@ Hey there! :wave: I'm Marquis, and I'm a college student and software developer.
 <a href="https://chatwith.marquiskurt.net">
     <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/discord.svg" width="80px" alt="Chat on Discord"/>
 </a>
-<a href="https://app.element.io/#/user/@ubunturox104:matrix.org">
+<a href="https://matrix.to/#/@ubunturox104:matrix.org">
     <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/matrix.svg" width="80px" alt="Chat on Matrix"/>
 </a>
 <a href="https://unscripted.marquiskurt.net">
