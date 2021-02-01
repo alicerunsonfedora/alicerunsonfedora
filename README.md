@@ -6,7 +6,7 @@
 
 Hey there! :wave: I'm Marquis, and I'm a college student and software developer. I work on cool apps like [Hyperspace][hyper] and games [Unscripted][uvn] and [The Costumemaster][costume].
 
-<a href="https://mastodon.social/@alicerunsonfedora">
+<a href="https://fosstodon.org/@marquiskurt">
     <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/masto.svg" width="80px" alt="Follow on Mastodon"/>
 </a>
 <a href="https://chatwith.marquiskurt.net">
