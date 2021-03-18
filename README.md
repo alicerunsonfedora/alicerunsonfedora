@@ -1,5 +1,3 @@
-<a href="https://marquiskurt.net/files/converse.bsem.txt"><img src="rhema.gif" align=right /></a>
-
 ## Marquis Kurt
 
 **Swift, Python, and web developer**
