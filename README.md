@@ -2,7 +2,17 @@
 
 **Swift, Python, and web developer**
 
-Hey there! :wave: I'm Marquis, and I'm a college student and software developer. I work on cool apps like [Hyperspace][hyper] and games [Unscripted][uvn] and [The Costumemaster][costume].
+Hey there! :wave: I'm Marquis, and I'm a college student and software developer. I work on cool apps like [Hyperspace][hyper] and games [Unscripted][uvn], [The Costumemaster][costume], and [Indexing Your Heart][hoh].
+
+### Languages I Use
+
+- Swift
+- Python
+- Kotlin
+- C#
+- TypeScript/JavaScript
+- Java
+- GDScript
 
 <a href="https://fosstodon.org/@marquiskurt">
     <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/masto.svg" width="80px" alt="Follow on Mastodon"/>
@@ -13,7 +23,7 @@ Hey there! :wave: I'm Marquis, and I'm a college student and software developer.
 <a href="https://matrix.to/#/@ubunturox104:matrix.org">
     <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/matrix.svg" width="80px" alt="Chat on Matrix"/>
 </a>
-<a href="https://unscripted.marquiskurt.net">
+<a href="https://unscriptedvn.dev">
     <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/uvn.svg" width="80px" alt="Play Unscripted"/>
 </a>
 <a href="https://ko-fi.com/marquiskurt">
@@ -22,5 +32,6 @@ Hey there! :wave: I'm Marquis, and I'm a college student and software developer.
 
 <!-- Links -->
 [hyper]: https://hyperspace.marquiskurt.net
-[uvn]: https://unscripted.marquiskurt.net
+[uvn]: https://unscriptedvn.dev
 [costume]: https://costumemaster.marquiskurt.net
+[hoh]: https://indexingyourhe.art
