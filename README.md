@@ -14,10 +14,11 @@ Hey there! :wave: I'm Marquis, and I'm a college student and software developer.
     <img alt="GDScript" src="https://img.shields.io/badge/-GDScript-458CBF?style=flat-square&logo=godotengine&logoColor=white" />
 </p>
 
-## Current Projects
+### Current Projects
 
 - [Starlight](https://github.com/hyperspacedev/staright): A beautiful Mastodon client for macOS and iOS with SwiftUI designed for new to the fediverse
 - [Indexing Your Heart](https://github.com/Indexing-Your-Heart/head-over-heels): A visual novel and RPG hybrid about building relationships under masks
+- [The Costumemaster: Reloaded](https://github.com/alicerunsonfedora/cm-godot): A remastered version of _The Costuemaster_ made with the Godot engine
 
 <a href="https://fosstodon.org/@marquiskurt">
     <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/masto.svg" width="80px" alt="Follow on Mastodon"/>
