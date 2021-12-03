@@ -1,8 +1,8 @@
 ## Marquis Kurt
 
-Hey there! :wave: I'm Marquis, and I'm a college student (comp. sci. major, c/o 2022) and software/indie game developer.
+Hey there! :wave: I'm Marquis, and I'm a college student (comp. sci. major, c/o 2022) and software/indie game developer. Feel free to follow me on Twitter ([@MarquisKurt0](https://twitter.com/MarquisKurt0)) or on Fosstodon ([@marquiskurt@fosstodon.org](https://fosstodon.org/@marquiskurt)). If you like the work I do and want to support me, consider [buying me a coffee on Ko-fi](https://ko-fi.com/marquiskurt) or supporting me on GitHub Sponsors.
 
-### Languages I Use
+### 🖋 Languages I Use
 
 <p>
     <img alt="Swift" src="https://img.shields.io/badge/-Swift-000000?style=flat-square&logo=swift&logoColor=white&color=orange" />
@@ -14,30 +14,24 @@ Hey there! :wave: I'm Marquis, and I'm a college student (comp. sci. major, c/o 
     <img alt="GDScript" src="https://img.shields.io/badge/-GDScript-458CBF?style=flat-square&logo=godotengine&logoColor=white" />
 </p>
 
-### Current Projects
+### 📁 Current Projects
 
 - [Hyperspace Starlight](https://github.com/hyperspacedev/staright): A beautiful Mastodon client for macOS and iOS with SwiftUI designed for new to the fediverse
 - [Indexing Your Heart](https://github.com/Indexing-Your-Heart/head-over-heels): A visual novel and RPG hybrid about building relationships under masks
 - [The Costumemaster: Reloaded](https://github.com/alicerunsonfedora/cm-godot): A remastered version of _The Costuemaster_ made with the Godot engine
 
-<a href="https://fosstodon.org/@marquiskurt">
-    <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/masto.svg" width="80px" alt="Follow on Mastodon"/>
-</a>
-<a href="https://chatwith.marquiskurt.net">
-    <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/discord.svg" width="80px" alt="Chat on Discord"/>
-</a>
-<a href="https://matrix.to/#/@ubunturox104:matrix.org">
-    <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/matrix.svg" width="80px" alt="Chat on Matrix"/>
-</a>
-<a href="https://unscriptedvn.dev">
-    <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/uvn.svg" width="80px" alt="Play Unscripted"/>
-</a>
-<a href="https://ko-fi.com/marquiskurt">
-    <img src="https://raw.githubusercontent.com/alicerunsonfedora/alicerunsonfedora/master/buttons/kofi.png" height="25px" alt="Buy me a coffee"/>
-</a>
+### 🕹 Some of My Game Projects
 
-<!-- Links -->
-[hyper]: https://hyperspace.marquiskurt.net
-[uvn]: https://unscriptedvn.dev
-[costume]: https://costumemaster.marquiskurt.net
-[hoh]: https://indexingyourhe.art
+You can also visit my page on [Itch.io](https://marquiskurt.itch.io) for a more complete list of games.
+
+- [Unscripted](https://unscriptedvn.dev): A visual novel about software development
+- [Bug Bounty](https://marquiskurt.itch.io/bug-bounty): Quick game about squashing bugs (Entry for 129th Trijam)
+- [Planting Uneasy Feelings](https://marquiskurt.itch.io/planting-uneasy-feelings): A game about inflicting curses (Entry for Godot Wild Jam 36)
+- [No Love](https://marquiskurt.itch.io/no-love): A game about relationships (Entry for Wowie! Jam 3.0)
+
+### 🔗 Some Helpful Links
+
+- Github (you're already here!)
+- [YouTrack Instance](https://youtrack.marquiskurt.net)
+- [Itch.io page](https://marquiskurt.itch.io)
+- [Discord server](https://chatwith.marquiskurt.net)
