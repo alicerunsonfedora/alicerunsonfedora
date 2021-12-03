@@ -1,6 +1,6 @@
 ## Marquis Kurt
 
-Hey there! :wave: I'm Marquis, and I'm a college student and software developer. I work on cool apps like [Hyperspace][hyper] and games [Unscripted][uvn], [The Costumemaster][costume], and [Indexing Your Heart][hoh].
+Hey there! :wave: I'm Marquis, and I'm a college student (comp. sci. major, c/o 2022) and software/indie game developer.
 
 ### Languages I Use
 
@@ -16,7 +16,7 @@ Hey there! :wave: I'm Marquis, and I'm a college student and software developer.
 
 ### Current Projects
 
-- [Starlight](https://github.com/hyperspacedev/staright): A beautiful Mastodon client for macOS and iOS with SwiftUI designed for new to the fediverse
+- [Hyperspace Starlight](https://github.com/hyperspacedev/staright): A beautiful Mastodon client for macOS and iOS with SwiftUI designed for new to the fediverse
 - [Indexing Your Heart](https://github.com/Indexing-Your-Heart/head-over-heels): A visual novel and RPG hybrid about building relationships under masks
 - [The Costumemaster: Reloaded](https://github.com/alicerunsonfedora/cm-godot): A remastered version of _The Costuemaster_ made with the Godot engine
 
