@@ -12,7 +12,8 @@ Hey there! :wave: I'm Marquis, and I'm a college student and software developer.
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&logoColor=white&color=brown" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&color=blue" />
-    <img alt="C#" src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=white&color=blue" />
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=white&color=green" />
+    <img alt="GDScript" src="https://img.shields.io/badge/-GDScript-000000?style=flat-square&logo=godotengine&logoColor=white&color=blue" />
 </p>
 
 
