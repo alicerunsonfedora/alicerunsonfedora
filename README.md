@@ -18,8 +18,8 @@ Hey there! :wave: I'm Marquis, and I'm a college student (comp. sci. major, c/o 
 
 - [Hyperspace Starlight](https://github.com/hyperspacedev/staright): A beautiful Mastodon client for macOS and iOS with SwiftUI designed for new to the fediverse
 - [Indexing Your Heart](https://github.com/Indexing-Your-Heart/head-over-heels): A visual novel and RPG hybrid about building relationships under masks
-- [The Costumemaster: Reloaded](https://github.com/alicerunsonfedora/cm-godot): A remastered version of _The Costuemaster_ made with the Godot engine
 - [Give Me A Sniglet](https://github.com/alicerunsonfedora/sniglet): A small app to generate sniglets validated by a machine learning model
+- [Package Resolved](https://github.com/alicerunsonfedora/package-resolved): A game about collecting packages as quickly as possible
 
 ### 🕹 Some of My Game Projects
 
