@@ -1,6 +1,6 @@
 ## Marquis Kurt
 
-Hey there! :wave: I'm Marquis, and I'm a software developer. Feel free to follow me on Twitter ([@MarquisKurt0](https://twitter.com/MarquisKurt0)) or on Koyu.space ([@marquiskurt@koyu.space](https://koyu.space/@marquiskurt)). If you like the work I do and want to support me, consider [buying me a coffee on Ko-fi](https://ko-fi.com/marquiskurt) or supporting me on GitHub Sponsors.
+Hey there! :wave: I'm Marquis, and I'm a software developer. Feel free to follow my ramblings on [https://rambles.marquiskurt.net](https://rambles.marquiskurt.net). If you like the work I do and want to support me, consider [buying me a coffee on Ko-fi](https://ko-fi.com/marquiskurt) or supporting me on GitHub Sponsors.
 
 ### 🖋 Languages I Use
 
