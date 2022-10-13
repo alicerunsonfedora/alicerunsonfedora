@@ -17,7 +17,7 @@ Hey there! :wave: I'm Marquis, and I'm a software developer. Feel free to follow
 ### 📁 Current Projects
 
 - [Hyperspace Starlight](https://github.com/hyperspacedev/starlight): A beautiful Mastodon client for macOS and iOS with SwiftUI designed for new to the fediverse
-- [Indexing Your Heart](https://github.com/Indexing-Your-Heart/head-over-heels): A visual novel and RPG hybrid about building relationships under masks
+- [Indexing Your Heart](https://indexingyourhe.art): A Witness-like puzzle game with story components about building relationships under masks.
 - [Give Me A Sniglet](https://github.com/alicerunsonfedora/sniglet): A small app to generate sniglets validated by a machine learning model
 
 ### 🕹 Some of My Game Projects
