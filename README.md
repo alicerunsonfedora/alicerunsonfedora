@@ -19,7 +19,6 @@ Hey there! :wave: I'm Marquis, and I'm a software developer. Feel free to follow
 - [Hyperspace Starlight](https://github.com/hyperspacedev/starlight): A beautiful Mastodon client for macOS and iOS with SwiftUI designed for new to the fediverse
 - [Indexing Your Heart](https://github.com/Indexing-Your-Heart/head-over-heels): A visual novel and RPG hybrid about building relationships under masks
 - [Give Me A Sniglet](https://github.com/alicerunsonfedora/sniglet): A small app to generate sniglets validated by a machine learning model
-- [Package Resolved](https://github.com/alicerunsonfedora/package-resolved): A game about collecting packages as quickly as possible
 
 ### 🕹 Some of My Game Projects
 
@@ -29,6 +28,7 @@ You can also visit my page on [Itch.io](https://marquiskurt.itch.io) for a more 
 - [Bug Bounty](https://marquiskurt.itch.io/bug-bounty): Quick game about squashing bugs (Entry for 129th Trijam)
 - [Planting Uneasy Feelings](https://marquiskurt.itch.io/planting-uneasy-feelings): A game about inflicting curses (Entry for Godot Wild Jam 36)
 - [No Love](https://marquiskurt.itch.io/no-love): A game about relationships (Entry for Wowie! Jam 3.0)
+- [Package Resolved](https://github.com/alicerunsonfedora/package-resolved): A game about collecting packages as quickly as possible
 
 ### 🔗 Some Helpful Links
 
