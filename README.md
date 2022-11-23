@@ -33,6 +33,6 @@ You can also visit my page on [Itch.io](https://marquiskurt.itch.io) for a more 
 ### 🔗 Some Helpful Links
 
 - Github (you're already here!)
-- [YouTrack Instance](https://youtrack.marquiskurt.net)
 - [Itch.io page](https://marquiskurt.itch.io)
 - [Discord server](https://chatwith.marquiskurt.net)
+- [Mastodon (@ubunturox104@social.vivaldi.net)](https://social.vivaldi.net/@ubunturox104)
