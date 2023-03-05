@@ -16,7 +16,7 @@ Hey there! :wave: I'm Marquis, and I'm a software developer. Feel free to follow
 
 ### 📁 Current Projects
 
-- [Hyperspace Starlight](https://github.com/hyperspacedev/starlight): A beautiful Mastodon client for macOS and iOS with SwiftUI designed for new to the fediverse
+- [Fedigardens](https://github.com/alicerunsonfedora/fedigardens): A simplified, discussion-driven Mastodon app for iPhone and iPad
 - [Indexing Your Heart](https://indexingyourhe.art): A Witness-like puzzle game with story components about building relationships under masks.
 - [Give Me A Sniglet](https://github.com/alicerunsonfedora/sniglet): A small app to generate sniglets validated by a machine learning model
 
@@ -35,4 +35,4 @@ You can also visit my page on [Itch.io](https://marquiskurt.itch.io) for a more 
 - Github (you're already here!)
 - [Itch.io page](https://marquiskurt.itch.io)
 - [Discord server](https://chatwith.marquiskurt.net)
-- [Mastodon (@ubunturox104@social.vivaldi.net)](https://social.vivaldi.net/@ubunturox104)
+- [Mastodon (@marquiskurt@iosdev.space)](https://iosdev.space/@marquiskurt)
